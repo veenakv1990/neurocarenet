@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-opencv-python
-matplotlib
-plotly
-streamlit-autorefresh
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+matplotlib==3.9.2
+plotly==5.24.1
+streamlit-autorefresh==1.0.1
